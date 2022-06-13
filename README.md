@@ -1,8 +1,21 @@
-Hello, I’m @SukharevaSofia
+## Hello, I'm Sukhareva Sofya 
+</br>
 
-I’m currently getting bachelor's degree in system and application software in ITMO university
+ <div>
+  <a href="https://github.com/SukharevaSofia">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SukharevaSofia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+ 
+  
+</br>
 
-How to reach me:
-
-sukhareva.sophia@gmail.com or
-334641@niuitmo.ru
+## Contact 
+<div> 
+  <a href = "mailto: sukhareva.sophia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+ 
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
